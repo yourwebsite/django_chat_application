@@ -12,3 +12,6 @@ These are the two most successful technology used in django
 ## What are the resources to follow?
 - First is youtube. There is a playlist in youtube by JustDjango Youtube channel. It is a beginear friendly tutorial.
 - Second is online articles. online articles are good to go.
+
+## What we can use in the frontend?
+- You can use plain HTML, CSS, JavaScript or any javascript framework or library like Vue, React, Angular.
